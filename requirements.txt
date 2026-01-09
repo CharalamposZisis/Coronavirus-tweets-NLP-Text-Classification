@@ -1,0 +1,13 @@
+pandas 
+numpy 
+matplotlib
+scikit-learn
+ipykernel
+spacy
+lightgbm
+xgboost
+shap
+gensim
+torch
+tensorflow
+nltk
